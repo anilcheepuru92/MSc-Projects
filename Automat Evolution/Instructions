@@ -1,0 +1,5 @@
+Execution Instructions: 
+1. Run the file “VisualizeGridWithPattern.java”
+2. This software expects the user to input the Pattern Name (pattern1/pattern2/pattern3) and
+the Evolution Number. So, enter these 2 values in the console.
+3. Field with result pattern is visualized in the PeasyCam window.
